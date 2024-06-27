@@ -1,0 +1,10 @@
+.margin{
+    margin-top: 5rem;
+}
+
+.bg-hover:hover{
+    transition: 0.7ms;
+    background-color: white;
+    border-radius: 5px;
+
+}
